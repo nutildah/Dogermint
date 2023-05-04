@@ -1,0 +1,76 @@
+{
+	"Dogermint": {
+		"COUNTERDOGE": {
+			"URL": "https://dogeparty.xchain.io/asset/COUNTERDOGE",
+			"supply": "16300"
+		},
+		"DODGERDOGE": {
+			"URL": "https://dogeparty.xchain.io/asset/DODGERDOGE",
+			"supply": "18000"
+		},
+		"HAPPYSHIBE": {
+			"URL": "https://dogeparty.xchain.io/asset/HAPPYSHIBE",
+			"supply": "16200"
+		},
+		"MILLERLIGHT": {
+			"URL": "https://dogeparty.xchain.io/asset/MILLERLIGHT",
+			"supply": "14000"
+		},
+		"WEBCOIN": {
+			"URL": "https://dogeparty.xchain.io/asset/WEBCOIN",
+			"supply": "109000"
+		},
+		"MILLER": {
+			"URL": "https://dogeparty.xchain.io/asset/MILLER",
+			"supply": "100"
+		},
+		"DOGEQUARTER": {
+			"URL": "https://dogeparty.xchain.io/asset/DOGEQUARTER",
+			"supply": "1000"
+		},
+		"DOGEDOLLAR": {
+			"URL": "https://dogeparty.xchain.io/asset/DOGEDOLLAR",
+			"supply": "250"
+		},
+		"DOGEDIME": {
+			"URL": "https://dogeparty.xchain.io/asset/DOGEDIME",
+			"supply": "2500"
+		},
+		"DOGENICKEL": {
+			"URL": "https://dogeparty.xchain.io/asset/DOGENICKEL",
+			"supply": "5000"
+		},
+		"DOGEPENNY": {
+			"URL": "https://dogeparty.xchain.io/asset/DOGEPENNY",
+			"supply": "25000"
+		},
+		"BENGALS": {
+			"URL": "https://dogeparty.xchain.io/asset/BENGALS",
+			"supply": "777"
+		},
+		"BIKE": {
+			"URL": "https://dogeparty.xchain.io/asset/BIKE",
+			"supply": "7"
+		},
+		"GOLDENSHIBE": {
+			"URL": "https://dogeparty.xchain.io/asset/GOLDENSHIBE",
+			"supply": "999"
+		},
+		"HAPPYDOGE": {
+			"URL": "https://dogeparty.xchain.io/asset/HAPPYDOGE",
+			"supply": "8888"
+		},
+		"SHITCOIN": {
+			"URL": "https://dogeparty.xchain.io/asset/SHITCOIN",
+			"supply": "69420000"
+		},
+		"STELLA": {
+			"URL": "https://dogeparty.xchain.io/asset/STELLA",
+			"supply": "100"
+		},
+		"SUPERSHIBE": {
+			"URL": "https://dogeparty.xchain.io/asset/SUPERSHIBE",
+			"supply": "18888"
+		}
+	}
+}
